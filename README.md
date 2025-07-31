@@ -29,11 +29,9 @@ pip install pygame
 🚀 Nasıl Çalıştırılır?
 Bu repoyu klonla:
 
-bash
-Copy
-Edit
 git clone https://github.com/selimbedirhan/sevgiliye-hediye.git
 cd sevgiliye-hediye
+
 Gerekli dosyaların mevcut olduğundan emin ol:
 
 muzik.mp3
@@ -42,18 +40,8 @@ resim1.gif, resim2.gif, ..., resim7.gif
 
 Çalıştır:
 
-bash
-Copy
-Edit
 python main.py
 📝 Not: Uygulama tam ekran başlar, o yüzden diğer pencereleri kapatmak isteyebilirsin 😊
-
-❤️ Ekran Görüntüsü
-
-🧠 İlham Kaynağı
-Bu proje sadece bir kod çalışması değil, aynı zamanda bir 💌 aşk mektubudur.
-Sevgiliye ithafen yazılmıştır.
-
 
 Müzik ve görseller özel olarak eklenmenlidir.
 
@@ -62,11 +50,4 @@ Selim Bedirhan Öztürk
 📧 selimbedirhan42@gmail.com
 
 "Kod sadece kod değildir bazen sevgidir, bazen de bir gülümsemenin sebebi." 💜
-
-yaml
-Copy
-Edit
-
----
-
 ```
