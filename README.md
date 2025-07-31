@@ -1,4 +1,4 @@
-# 🌸 Seni Seviyorum Sevgilim - Romantik Python Animasyonu 💜
+# Romantik Python Animasyonu 
 
 Bu proje, sevgilime özel hazırlanmış romantik bir **Python animasyonu**dur.  
 `Turtle`, `Pygame` ve biraz da aşk ile geliştirilmiştir.
